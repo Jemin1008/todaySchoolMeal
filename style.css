@@ -1,0 +1,74 @@
+
+div {
+    text-align: center;
+}
+#schoolname-text {
+    color: #000;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+#mealname-text {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    border-width: 1px;
+    border-radius: 20px;
+    background: #EFEFEF;
+    width: 100px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    padding-top: 5px;
+}
+
+#colone {
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+#middle-line {
+    background: #000;
+    width: 50%;
+    height: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+#todaymeal-innerbox {
+    border-radius: 15px;
+    background: #FFF;
+    width: 80%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+#todaymeal-box {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    background: #698AFF;
+    margin-left: -5%;
+    margin-right: -5%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
